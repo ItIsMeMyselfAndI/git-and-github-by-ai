@@ -120,4 +120,6 @@ git config --global github.user <your-github-username>
 - You’ve set up SSH keys for secure GitHub access.
 - Your GitHub account is ready.
 
-**Next:** Creating and working with your first repository!
+---
+
+Next: [Creating and working with your first repository!](./03-create-work-with-repo.md))

@@ -155,4 +155,4 @@ For large repos, you can check out only part of the project.
 
 ---
 
-**Next:** Advanced GitHub usage—automation with Actions, managing secrets, GitHub Packages, Pages, and more!
+Next: [Advanced GitHub usage—automation with Actions, managing secrets, GitHub Packages, Pages, and more!](./09-advanced-github-usage.md)

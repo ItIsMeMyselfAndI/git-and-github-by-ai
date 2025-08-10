@@ -124,4 +124,4 @@ Sometimes, changes in different branches overlap and Git can’t merge automatic
 
 ---
 
-**Next:** Collaborating with others using remotes—pushing, pulling, and syncing your work with GitHub!
+Next: [Collaborating with others using remotes—pushing, pulling, and syncing your work with GitHub!](./05-collaborating-with-remotes.md)

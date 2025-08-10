@@ -117,4 +117,6 @@ git clone git@github.com:<some-user>/<some-repo>.git
 
 **You now have a working local and remote repository!**
 
-**Next:** Branching and merging—work on features independently and combine changes safely.
+---
+
+Next: [Branching and merging—work on features independently and combine changes safely.](./04-branching-and-merging.md)

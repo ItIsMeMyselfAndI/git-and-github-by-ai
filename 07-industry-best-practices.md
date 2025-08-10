@@ -133,4 +133,4 @@ Adopting industry best practices helps teams write cleaner code, avoid common mi
 
 ---
 
-**Next:** Advanced Git—interactive rebase, cherry-pick, stash, bisect, and more!
+Next: [Advanced Git—interactive rebase, cherry-pick, stash, bisect, and more!](./08-advanced-git-for-developers.md)

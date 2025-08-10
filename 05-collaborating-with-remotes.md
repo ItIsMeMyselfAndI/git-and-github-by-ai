@@ -94,4 +94,6 @@ git rebase upstream/main
 
 **You’re now ready to collaborate with others using remotes!**
 
-**Next:** How to use Pull Requests (PRs) and code review on GitHub—the professional way to propose, discuss, and merge changes.
+---
+
+Next: [How to use Pull Requests (PRs) and code review on GitHub—the professional way to propose, discuss, and merge changes.](./06-pull-requests-and-code-review.md)

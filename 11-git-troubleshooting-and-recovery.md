@@ -145,4 +145,6 @@ Even experienced developers make mistakes with Git! The good news: most mistakes
 **Congratulations!**  
 You’ve completed the practical Git & GitHub guide for developers. You’re ready to collaborate, contribute, and troubleshoot with confidence.
 
-**Next:** (Optional) Popular Git GUI tools, resources, and further learning!
+---
+
+Next: [(Optional) Popular Git GUI tools, resources, and further learning!](./12-git-gui-tools-and-further-learning.md)

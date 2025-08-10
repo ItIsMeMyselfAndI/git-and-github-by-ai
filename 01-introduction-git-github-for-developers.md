@@ -91,4 +91,6 @@ git commit -m "Add myfile.py with initial code"
 - **GitHub** lets you store, share, and collaborate on Git repositories online.
 - Developers use both to work safely and efficiently, whether solo or in teams.
 
-**Next:** Setting up your environment for Git & GitHub!
+---
+
+Next: [Setting up your environment for Git & GitHub!](./02-setup-git-github-for-developers.md)

@@ -110,4 +110,4 @@ As you grow as a developer, GitHub offers advanced features for automation, secu
 
 ---
 
-**Next:** Open source and community collaboration—how to contribute, fork, and work within the open-source ecosystem!
+Next: [Open source and community collaboration—how to contribute, fork, and work within the open-source ecosystem!](./10-open-source-contribution.md)

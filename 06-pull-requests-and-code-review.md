@@ -107,4 +107,4 @@ If the base branch has changed since you started your PR:
 
 ---
 
-**Next:** Industry best practices—commit messages, branch naming, `.gitignore`, and more!
+Next: [Industry best practices—commit messages, branch naming, `.gitignore`, and more!](./07-industry-best-practices.md)

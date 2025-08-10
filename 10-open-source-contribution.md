@@ -110,4 +110,4 @@ git push origin main
 
 ---
 
-**Next:** Troubleshooting and recovery—how to fix mistakes, recover lost work, and handle common Git pitfalls!
+Next: [Troubleshooting and recovery—how to fix mistakes, recover lost work, and handle common Git pitfalls!](./11-git-troubleshooting-and-recovery.md)
